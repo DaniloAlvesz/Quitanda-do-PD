@@ -6,6 +6,10 @@ can be found in the LICENSE file at https://angular.io/license
 
 .produto {
   background: #dfdfdf;
-  padding: 5px;
+  padding: 20px;
   border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  margin-bottom: 20px;
 }
